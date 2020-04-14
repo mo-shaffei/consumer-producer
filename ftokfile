@@ -1,0 +1,2 @@
+A file to just act as a node between producer and consumer to allow consumers to connect to the same semaphores
+and shared memory segments created by the producer.
